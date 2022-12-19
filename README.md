@@ -171,6 +171,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Information Security Governance](https://www.ukcybersecuritycouncil.org.uk/qualifications-and-careers/careers-route-map/cyber-security-governance-risk-management/)
 - [Security Frameworks and Standards](https://www.linkedin.com/pulse/overview-cyber-security-frameworks-standards-tommy/)
 - [Security Architecture and Design](https://www.infosectrain.com/blog/roles-and-responsibilities-of-a-security-architect/#:~:text=A%20Security%20Architect%20creates%2C%20plans,%2C%20cybersecurity%2C%20and%20risk%20management.)
+- [Guias de Carreiras](https://drive.google.com/drive/u/0/folders/12Mvq6kE2HJDwN2CZhEGWizyWt87YunkU)
 
 ## 🕵️‍♂️ Sites para estudar Cyber Security
 
@@ -315,6 +316,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Awesome Browser Exploit](https://github.com/Escapingbug/awesome-browser-exploit)
 - [Awesome Linux Rootkits](https://github.com/milabs/awesome-linux-rootkits)
 - [Awesome API Security](https://github.com/arainho/awesome-api-security/)
+- [Awesome Cloud PenTest](https://github.com/CyberSecurityUP/Awesome-Cloud-PenTest)
+- [Awesome Cloud Security and Attacks](https://github.com/CyberSecurityUP/Cloud-Security-Attacks)
 
 ## 🔗 Testes de segurança de API
 
@@ -397,6 +400,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Null Byte](https://www.youtube.com/c/NullByteWHT) - Segurança cibernética para hackers éticos e cientistas da computação.
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow) - Envolve hacking, vídeos de gravação e capture the flags.
 - [The PC Security Channel](https://www.youtube.com/c/thepcsecuritychannel) - Segurança do Windows, notícias sobre malware e tutoriais.
+- [Joas Antonio](https://www.youtube.com/channel/UCFvueUEWRfQ9qT9UmHCw_og) - Segurança cibernética, tutoriais e guias de carreira
+- [Rana Khalil](https://www.youtube.com/@RanaKhalil101) - Tutoriais, segurança cibernética e Writeups 
 
 ## 🔎 Ferramentas de busca
 
@@ -524,6 +529,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Red Team Cheatsheets](https://0xsp.com/offensive/red-team-cheatsheet/)
 - [Blue Team Cheatsheets](https://guidance.ctag.org.uk/blue-team-cheatsheet)
 - [Pentesting Cheatsheets](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets)
+- [Red Team Management Cheatsheets](https://github.com/CyberSecurityUP/Red-Team-Management)
 
 ## ♟️ Exploitation
 
@@ -1601,5 +1607,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 🎓 Certificações para Cyber Security
 
+- [Roadmap de certificações de PenTest](https://github.com/CyberSecurityUP/PenTest-Certifications-Roadmap)
 - [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
   ![Logo](https://i.imgur.com/azUfcQp.png)
